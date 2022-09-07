@@ -1,4 +1,8 @@
 # autodl-curl-sonarr
+ Based on the original autodl-curl-sonarr script but is modified to work for windows and chatzilla. 
+
+Original Description
+
 Script to use as upload-command for autodl-irssi to post torrents to Sonarr
 
 Obviously you will need autodl-irssi (https://github.com/autodl-community) and Sonarr (https://sonarr.tv/) installed for this to work.  You will also need curl.
